@@ -39,6 +39,7 @@ class _HomeState extends State<Home> {
         Navigator.of(context).push(MaterialPageRoute(builder: (context) => const AddNewTodoScreen()));
       },
         child: const Icon(Icons.add),),
+
     );
   }
 }
