@@ -6,7 +6,6 @@ import 'add_new_todo_screen.dart';
 
 void main(){
   runApp(const MyApp());
-
 }
 
 
